@@ -6,7 +6,7 @@
       <class name="ebay.EbayLoginaAndAdditemsToCart">
         <methods>
           <include name="beforeTest"/>
-          <include name="searchAndAddItems"/>
+          <include name="test"/>
         </methods>
       </class> <!-- ebay.EbayLoginaAndAdditemsToCart -->
     </classes>
